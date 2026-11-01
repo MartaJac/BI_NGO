@@ -3,7 +3,7 @@
 > ## 1. O projekcie
 **Link do projektu:**
 
-https://app.powerbi.com/view?r=eyJrIjoiYjFjYmE5YTQtZDdjZC00ZmRmLWJlNjUtMWRlMGU3NDM0ZmM3IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9
+https://app.powerbi.com/view?r=eyJrIjoiZDUyODU0ZjktZjU1Ni00OWRiLWE3OTgtMWRiMzE4YWRhNWRkIiwidCI6Ijc1YzJlNGQ0LWQwNGMtNGNlOS1hMGVhLWM5NzViZGM0MTdlYiIsImMiOjF9
 
 **Tytuł projektu:**
 Sytuacja opuszczonych noworodków i dzieci w pieczy zastępczej w Polsce
